@@ -1,5 +1,5 @@
 // TU endpoint real de API Gateway.
-const API_URL = 'https://API_ID.execute-api.TU_REGION.amazonaws.com/dev/contact';
+const API_URL = 'https://2dvw3q8dt0.execute-api.us-east-1.amazonaws.com/dev/items';
  
 document.addEventListener('DOMContentLoaded', () => {
   const form = document.querySelector('.ebook-download-form');
